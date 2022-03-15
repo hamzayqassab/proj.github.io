@@ -62,7 +62,7 @@
 </head>
 <body>
 <div class="container">
-  <img src="https://github.com/hamzayqassab/hamzayqassab.github.io/blob/main/image-qr-code.png" alt="">
+  <img src="image-qr-code.png" alt="">
   <p class="p1">Improve your front-end skills by building projects</p>
 
   <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
